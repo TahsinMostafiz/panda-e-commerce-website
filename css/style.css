@@ -1,0 +1,17 @@
+body::before{
+    content: "";
+    display: block;
+    height: 60px;
+}
+
+
+.panda-bg-primary{
+    background: #fceae8;
+}
+
+.btn-custom{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    color: #fff;
+    font-weight: 600;
+}
